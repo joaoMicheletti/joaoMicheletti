@@ -1,6 +1,5 @@
 ### 💬 Ola amigos, Meu nome é João Micheletti. 👋
 ###  - Estudante de T.I cursando a primeira graduação (ADS) 
-- 🌱 Tudo possui o seu valor, por mais simples que sejá .
 - ⚡  em busca de uma oportunidade
 <!--
 **joaoMicheletti/joaoMicheletti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
