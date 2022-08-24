@@ -6,13 +6,6 @@ Buscando uma oportunidade para ingressar  no setor tecnológico mais precisament
 
 </p>
 
-<p align="left">
-  ## 💼 Ferramentas: 
-  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
-  
-</p>
 
 ## 🚀 Minhas Skills
 
