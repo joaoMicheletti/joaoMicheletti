@@ -2,8 +2,7 @@
 
 <p align="left"> 
   Olá ,  me chamo João Victor de Andrade Micheletti  nascido em 1998 apaixonado por tecnologia, trabalhando atualmente no setor de logística, cursando “Tecnologia em  analise e desenvolvimento de sistema”.
-Buscando uma oportunidade para ingressar  no setor tecnológico mais precisamente para a área de desenvolvimento ,
-
+Buscando uma oportunidade para ingressar  no setor tecnológico mais precisamente para área de desenvolvimento.
 </p>
 
 
