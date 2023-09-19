@@ -1,19 +1,19 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
  
  ```js
-import Desenvolvedor from 'SeuNick';
+import Desenvolvedor from 'Michletti';
 
 class SobreMim extends Desenvolvedor {
-  nome     = 'Seu nome';
-  area    = 'Sua área';
-  trabalho  = 'Onde trabalha';
-  local = 'Local';
+  nome     = 'João Victor de Andrade Micheletti';
+  area    = 'Developer';
+  trabalho  = 'em busca de uma oportunidade';
+  local = 'SP';
 }
 
 class Skills extends Desenvolvedor {
-  linguagens  = ['Suas linguagens'];
-  bibliotecas  = ['Suas bibliotecas'];
-  frameworks = ['Seus frameworks'];
+  linguagens  = ['JavaScript', 'Python', 'C#', 'C', 'C++', 'Java',];
+  bibliotecas  = ['espress'];
+  frameworks = ['ReactJS'];
 }
 ```
 
