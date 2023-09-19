@@ -1,8 +1,20 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Olá ,  me chamo João Victor de Andrade Micheletti  nascido em 1998 apaixonado por tecnologia, trabalhando atualmente no setor de logística, cursando “Tecnologia em  analise e desenvolvimento de sistema”.
-Buscando uma oportunidade para ingressar  no setor tecnológico mais precisamente para área de desenvolvimento.
+ import Desenvolvedor from 'SeuNick';
+
+class SobreMim extends Desenvolvedor {
+  nome     = 'Seu nome';
+  area    = 'Sua área';
+  trabalho  = 'Onde trabalha';
+  local = 'Local';
+}
+
+class Skills extends Desenvolvedor {
+  linguagens  = ['Suas linguagens'];
+  bibliotecas  = ['Suas bibliotecas'];
+  frameworks = ['Seus frameworks'];
+}
 </p>
 
 
