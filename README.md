@@ -1,7 +1,8 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
- import Desenvolvedor from 'SeuNick';
+ ```js
+import Desenvolvedor from 'SeuNick';
 
 class SobreMim extends Desenvolvedor {
   nome     = 'Seu nome';
@@ -15,6 +16,7 @@ class Skills extends Desenvolvedor {
   bibliotecas  = ['Suas bibliotecas'];
   frameworks = ['Seus frameworks'];
 }
+```
 </p>
 
 
