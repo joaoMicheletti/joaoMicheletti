@@ -21,19 +21,6 @@ class Skills extends Desenvolvedor {
 
 ## 🚀 Minhas Skills
 
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Nodejs"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png" alt="TypeScript"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL"/></code>
-
-
-
--
-## 🚀 Minhas Skills
-
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" alt="JavaScript"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png" alt="TypeScript"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" alt="ReactJS"/></code>
@@ -47,7 +34,6 @@ class Skills extends Desenvolvedor {
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/knex/knex.png" alt="KnexJS"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/react-router/react-router.png" alt="React Router DOM"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" alt="Python"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/cpp/cpp.png" alt="C++"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/sql/sql.png" alt="SQL"/></code>
 
 
