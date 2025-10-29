@@ -1,19 +1,20 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="500px" max-width="500px" width="500px" align="right" alt="Computador iuriCode">
  
  ```js
 import Desenvolvedor from 'Michletti';
 
 class SobreMim extends Desenvolvedor {
-  nome     = 'João Victor de Andrade Micheletti';
-  area    = 'Developer';
-  trabalho  = 'em busca de uma oportunidade';
-  local = 'SP';
+  nome = 'João Micheletti';
+  area = 'Developer Fullstack';
+  trabalho = 'Developer';
+  local = 'World';
 }
 
 class Skills extends Desenvolvedor {
-  linguagens  = ['JavaScript', 'TypeScript, 'Python', 'C#', 'C', 'C++', 'Java',];
-  bibliotecas  = ['espress', 'knexjs'];
-  frameworks = ['ReactJS', 'nestjs'];
+  linguagens = ['JavaScript', 'TypeScript', 'Python', 'C++', 'SQL'];
+  bibliotecas = ['ExpressJS', 'KnexJS', 'React Router DOM'];
+  frameworks = ['ReactJS', 'NextJS', 'NestJS'];
+  ferramentas = ['Prisma', 'Docker', 'TailwindCSS', 'NodeJS'];
 }
 ```
 
@@ -53,5 +54,3 @@ earth_americas "A tecnologia move o mundo."
 - ⚡ Fun fact: ...
 -->
 
-## ⭐ Informações sobre minha conta GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pmarcelojr&show_icons=true)
