@@ -31,6 +31,27 @@ class Skills extends Desenvolvedor {
 
 
 
+-
+## 🚀 Minhas Skills
+
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" alt="JavaScript"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png" alt="TypeScript"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" alt="ReactJS"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/nextjs/nextjs.png" alt="NextJS"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png" alt="NodeJS"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/nestjs/nestjs.png" alt="NestJS"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/express/express.png" alt="ExpressJS"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/prisma/prisma.png" alt="Prisma"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png" alt="Docker"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/tailwind/tailwind.png" alt="TailwindCSS"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/knex/knex.png" alt="KnexJS"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/react-router/react-router.png" alt="React Router DOM"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" alt="Python"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/cpp/cpp.png" alt="C++"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/sql/sql.png" alt="SQL"/></code>
+
+
+
 
 
 
